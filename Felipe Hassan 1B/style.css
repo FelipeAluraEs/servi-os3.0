@@ -1,0 +1,46 @@
+h1 {
+	text-align: center
+
+}
+
+
+body {
+	background:  #00BFFF
+}
+
+
+p {
+	text-align: center
+}
+#jetta {
+	  width: 50%;
+	  margin-left: 450px;
+}
+
+#speed {
+	height: 100px;
+}
+
+li {
+	font-size: 20px;
+}
+
+.itens {
+	font-style: italic;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+
+.bens {
+	background: red;
+}
+
+.imgbens {
+	width: 50%;
+}
